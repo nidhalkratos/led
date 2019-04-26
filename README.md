@@ -1,4 +1,4 @@
-###Description:
+### Description:
 Are you tired turning the lights on when it is night and off otherwise ? Why don't you use your raspbery pi to automate this process.
 This tool will handle the light switching automatically, all you need to do is to specify when you want it to be off and it will do the rest.
 ###Installation + Running:
