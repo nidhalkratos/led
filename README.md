@@ -8,7 +8,7 @@ To start the service run ``` make start ```  
 To stop the srevice run  ``` make stop ```  
 To install the service ``` make install ```  
 To uninstall the service ``` make remove ```  
-###Notes:
+### Notes:
 This script was tested on a raspberry pi 3 running debian based linux.
 Pin Numbering uses GPIO numbering. (PIN 27 is the default pin for this project but can be changed at the makefile)
 This project requires wiringPi library , Find it at http://wiringpi.com/download-and-install/
